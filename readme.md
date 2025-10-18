@@ -19,14 +19,14 @@ press **`r`** - it clears the current choice so you can select a new origin rod.
 ## 📸 Gallery
 
 <p align="center">
-  <img src="images/hanoi1.png" width="30%" />
-  <img src="images/hanoi2.png" width="30%" />
-  <img src="images/hanoi3.png" width="30%" />
+  <img src="images/hanoi1.png" width="40%" />
+  <img src="images/hanoi2.png" width="40%" />
+  <img src="images/hanoi3.png" width="40%" />
 </p>
 
 <p align="center">
-  <img src="images/hanoi4.png" width="30%" />
-  <img src="images/hanoi5.png" width="30%" />
-  <img src="images/hanoi6.png" width="30%" />
+  <img src="images/hanoi4.png" width="40%" />
+  <img src="images/hanoi5.png" width="40%" />
+  <img src="images/hanoi6.png" width="40%" />
 </p>
 
